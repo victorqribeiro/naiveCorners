@@ -1,4 +1,4 @@
-# Naive Corner
+# Naive Corners
 
 A naive algorithm to find corners on a image.
 
