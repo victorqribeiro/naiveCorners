@@ -12,7 +12,7 @@ When I was still studing the basics of digital image processing I came up with t
 
 Well, as the name suggests, this is a very naive approach.
 
-Given any image we will look at it a window of 3 by 3 at a time.
+Given any image we will look at it a window of 3 by 3 at a time. (We could resize the image to speed up the process, but who's in a hurry?)
 
 3x3 window.  
 ![grid](ref/grid.png)
