@@ -6,7 +6,7 @@ A naive algorithm to find corners on a image.
 
 ## About
 
-When I was still studing the basics of digital image processing I came up with this "algorithm" to detect corners on a image.
+When I was still studying the basics of digital image processing I came up with this "algorithm" to detect corners on a image.
 
 ## How it works
 
