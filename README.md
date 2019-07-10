@@ -35,10 +35,10 @@ Not a corner either.
 
 ## Comparison 
 
-Harris Corner Detection (OpenCV)
+Harris Corner Detection (OpenCV)  
 ![harris](ref/harris.png)
 
-Naives Corner Detection
+Naives Corner Detection  
 ![naive](ref/naive.png)
 
 ## See it working
