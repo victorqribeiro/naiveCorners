@@ -33,6 +33,14 @@ Not a corner.
 Not a corner either.  
 ![grid](ref/not-corner-02.png)
 
+## Comparison 
+
+Harris Corner Detection (OpenCV)
+![harris](ref/harris.png)
+
+Naives Corner Detection
+![naive](ref/naive.png)
+
 ## See it working
 
 Run by calling
