@@ -41,6 +41,8 @@ Harris Corner Detection (OpenCV)
 Naives Corner Detection  
 ![naive](ref/naive.png)
 
+
+Harris Corner Detection is without a doubt faster and more efficient, it also works better than mine. Those are some reasons why I called mine naive.
 ## See it working
 
 Run by calling
