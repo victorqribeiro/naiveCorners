@@ -17,7 +17,7 @@ Given any image we will look at it a window of 3 by 3 at a time. (We could resiz
 3x3 window.  
 ![grid](ref/grid.png)
 
-We will then just count how many colored pixels we have at that window. If there's 4 colored pixels, it must be a corner.
+We will then just count how many colored pixels we have at that window. If there's 4 colored pixels, it must be a corner. In order to be considerated a valid neighbour, the color should be between some threshold. That would take care of anti-aliased borders.
 
 Corner.  
 ![grid](ref/corner-01.png)
